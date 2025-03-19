@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Tyler Pragides! Currently I am getting my bachelor's in computer science. I'm interested in a lot of things, such as AI/ML, web development, game development, cybersecurity just to name a few!
+
 <!--
 **tylerpragides/tylerpragides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
